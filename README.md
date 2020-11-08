@@ -12,4 +12,4 @@ cd CandyCBT-Afu
 
 python2 main.py https://target.com/ filelu
 
-#Btw kalian buat file dulu ya jangan lupa kasih jarak juga .com/ file.php
+# Btw kalian buat file dulu ya jangan lupa kasih jarak juga .com/ file.php
